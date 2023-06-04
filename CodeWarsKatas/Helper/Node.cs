@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodeWarsKatas.Helper
+{
+    public class Node
+    {
+        public int Value;
+        public Node Left;
+        public Node Right;
+
+        public Node(int value, Node left = null, Node right = null)
+        {
+            Value = value;
+            Left = left;
+            Right = right;
+        }
+    }
+}

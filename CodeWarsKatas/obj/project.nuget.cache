@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHhQYZzxMIFnDf+5u2g9LQiZEyl33NjhjhI8vD83qFRHU+tt0WIb354BIweset19xz6+ybiz43+s2xR70FJRaA==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\CodeWarsKatas\\CodeWarsKatas\\CodeWarsKatas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RTX 3060 Ti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RTX 3060 Ti\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\RTX 3060 Ti\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
